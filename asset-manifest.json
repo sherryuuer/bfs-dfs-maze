@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bfs-dfs-maze/static/css/main.db38238c.css",
+    "main.js": "/bfs-dfs-maze/static/js/main.f5c63ba5.js",
+    "index.html": "/bfs-dfs-maze/index.html",
+    "main.db38238c.css.map": "/bfs-dfs-maze/static/css/main.db38238c.css.map",
+    "main.f5c63ba5.js.map": "/bfs-dfs-maze/static/js/main.f5c63ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db38238c.css",
+    "static/js/main.f5c63ba5.js"
+  ]
+}
